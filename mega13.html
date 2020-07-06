@@ -1,4 +1,4 @@
-<title>Material Tracking Reports for Planner Group M43</title><div id="example1"><body onload="javascript:demoFromHTML()"><html>
+<title>Material Tracking Reports for Planner Group M43</title><div id="example1"><body onload="javascript:demoFromHTML()" style="visibility:hidden;" id="layer2"><html>
         List of Future Need Dates for planner group M43   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.0.272/jspdf.debug.js"></script>
@@ -157,7 +157,7 @@
         <th class="mdl-data-table__cell--non-numeric" align="right">Priority</th>
         <th class="mdl-data-table__cell--non-numeric" align="right">Equipment #</th>
         <th class="mdl-data-table__cell--non-numeric" align="right">WO Description</th></tr></thead>
-        <tbody></tbody></table>Material Tracking Reports for Planner Group M43<div id="example1"><body onload="javascript:demoFromHTML()"><html>
+        <tbody></tbody></table>Material Tracking Reports for Planner Group M43<div id="example1"><body onload="javascript:demoFromHTML()" style="visibility:hidden;" id="layer2"><html>
         List of Future Need Dates for planner group M43   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.0.272/jspdf.debug.js"></script>
@@ -502,6 +502,15 @@
             	<a href="javascript:demoFromHTML()" style="opacity:0;" id="bypassme" class="button">Run Code</a>
 <script>
    function demoFromHTML() {
+	   if (document.all){
+			            // document.all["layer1"].style.visibility="hidden";
+			            document.all["layer2"].style.visibility="visible";
+			            dialog.close();
+			        } else if (document.getElementById){
+			            dialog.close();
+			            // node = document.getElementById("layer1").style.visibility='hidden';
+			            node = document.getElementById("layer2").style.visibility='visible';
+			        }
        var pdf = new jsPDF('p', 'pt', 'letter');
        // source can be HTML-formatted string, or a reference
        // to an actual DOM element from which the text will be scraped.
