@@ -139,33 +139,10 @@
             padding: 20px 24px 24px 24px;
             color: rgba(0,0,0, 0.54); }
         </style>
-        <style media="screen" type="text/css">
-          .layer1_class { position: absolute; z-index: 1; top: 100px; left: 0px; visibility: visible; }
-          .mdl-layout { visibility: hidden }
-        </style>
-        <script>
-        function play() {
-                var audio = new Audio(
-    'https://media.geeksforgeeks.org/wp-content/uploads/20190531135120/beep.mp3');
-                audio.play();
-            }
-          function downLoad(){
-            var dialog = document.querySelector('#dialog');
-            if (document.all){
-                document.all["layer1"].style.visibility="hidden";
-                document.all["layer2"].style.visibility="visible";
-                dialog.close();
-                play();
-            } else if (document.getElementById){
-                dialog.close();
-                play();
-                node = document.getElementById("layer1").style.visibility='hidden';
-                node = document.getElementById("layer2").style.visibility='visible';
-            }
-          }
-        </script>
+        
+        
         </head>
-        <body onload="downLoad()" style="background-image:url('https://www.equate.com/wp-content/uploads/2019/01/Equate-Exteriors-0132.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
+        <body  style="background-image:url('https://www.equate.com/wp-content/uploads/2019/01/Equate-Exteriors-0132.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
         <br>
         <div id="layer1" class="layer1_class">
         <img src onerror='document.getElementById("creditmodal").click();'>
