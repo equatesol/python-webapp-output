@@ -1,1 +1,1 @@
-This repository serves as an official 'sink' to dump the output files produced by Material Dashboard - an internal software used in EQUATE, built by Aaditya Rengarajan. This is NOT open-source software but has been hosted on GitHub just for a rough usage for front-end.
+This repository serves as an official 'sink' to dump the output files produced by Material Dashboard - an internal software used in EQUATE. This is NOT open-source software but has been hosted on GitHub just for a rough usage for front-end.
