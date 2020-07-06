@@ -1,0 +1,235 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@     ,### ,###,     @@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@     /########### ,###########*    @@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@     /################### ,###################*     @@@@@@@@@@@
+@@@@     (########################### ,###########################/     @@@
+@
+@ ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+@ ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+@                  .
+@ @&&&&&&&&@  (&&&&&&&&&(  (&&&    &&&&    &&&&&,  @&&&&&&&&&&  &&&&&&&&&#
+@ @&&&%%%%%. *&&&     &&&* (&&&    &&&&   &&& @&&.     &&&(     @&&&%%%%%.
+@ @&&@.....  (&&&   / &&&/ (&&&    &&&&  @&&*  &&&     &&&(     @&&@.....
+@ @&&&&&&&&&  &&&&&&&&&&/   &&&&&&&&&&  &&&&&&&&&&&    &&&(     &&&&&&&&&&
+@ @&&&&&&&&&     /&&&/(@      .&&&&*   ////     ////   ///,     @&&&&&&&&&
+@ ########################################################################
+@ ########################################################################
+@
+@@@     ############################# ,############################(     @@
+@@@@@@@@@@@     (#################### ,####################/     @@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@     (############ ,############/     @@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@     /#### ,####*    @@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@&&&&@@@@@@@@@&&@@@@@@@@@@@@@@@@@@@&&@@@@@@@&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@
+@&&&&@&&&&&&@@&&@&&@&&&&&&&&@&&&&@@&&&&@&&@@@&&&&&&@&&&@&/&@@&&&&&&&&&&&&&&
+
+
+
+
+╓═════════════════════════════════════════════════════════════════════════╕
+║									  ║▒
+║	EQUATE MATERIAL TRACKING DASHBOARD VERSION 3 [FINAL EDITION]      ║▒
+║									  ║▒
+╠╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╪╣▒
+║									  ║▒
+║	built by AADITYA RENGARAJAN for EQUATE PETROCHEMICAL COMPANY      ║▒
+║				 					  ║▒
+╚═════════════════════════════════════════════════════════════════════════╝▒
+	▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+
++----------------------------------------------------------------------------+
+|                                                                            |
+|    This TXT document consists of :                                         |
+|                   1 . PRIVACY POLICY                                       |
+|                   2 . EULA                                                 |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+
+
+████████████████████████████████████████████████████████████████████████████
+█▄─▄▄─█▄─▄▄▀█▄─▄█▄─█─▄██▀▄─██─▄▄▄─█▄─█─▄███▄─▄▄─█─▄▄─█▄─▄███▄─▄█─▄▄▄─█▄─█─▄█
+██─▄▄▄██─▄─▄██─███▄▀▄███─▀─██─███▀██▄─▄█████─▄▄▄█─██─██─██▀██─██─███▀██▄─▄██
+▀▄▄▄▀▀▀▄▄▀▄▄▀▄▄▄▀▀▀▄▀▀▀▄▄▀▄▄▀▄▄▄▄▄▀▀▄▄▄▀▀▀▀▄▄▄▀▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▄▄▄▄▄▀▀▄▄▄▀▀
+
+  ▛									 ▜
+    1 . GOOGLE ANALYTICS
+
+  	This website has Google Analytics script installed in it which
+  	allows it to monitor website usage by all users.
+
+    2 . OPEN SOURCE REPORTS
+
+  	The reports generated will be temporarily posted on GitHub Pages
+  	as open source code as ther is no other way to host a website from
+  	an online flask+based python code. However, if better alternative
+  	is found, the developer is open to changes.
+
+    3 . SOURCE CODE PRIVACY
+
+  	The flask+based python server+side back+end code is NOT open
+  	source and hence any copying or plagiarism without the beforehand
+  	knowledge of the developer and proper permissions, will be
+  	considered an illegal act of cyber+crime.
+  ▙									 ▟
+
+
+
+
+
+	███████████████████▄─▄▄─█▄─██─▄█▄─▄████▀▄─████████████████████
+	█░░█████████████████─▄█▀██─██─███─██▀██─▀─████████████████░░██
+	▀▄▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄▄▀▀
+
+  ▛								 		  ▜
+	This End+User License Agreement ("EULA") is a
+	legal agreement between the user and the developer
+	made by and between:
+
+		+> Aaditya Rengarajan hereinafter referred to as
+		“the developer”
+
+		+> The user/installer of this software hereinafter
+		referred to as “the user”
+
+	This EULA agreement governs your acquisition and
+	use of Material Dashboard ("Software") directly
+	from the developer or indirectly through an
+	authorized reseller or distributor.
+
+	Please read this EULA agreement carefully before
+	completing the installation process and using
+	Material Dashboard It provides a license to use
+	Material Dashboard and contains warranty
+	information and liability disclaimers.
+
+	If you are entering into this EULA agreement on
+	behalf of a company or other legal entity, you
+	represent that you have the authority to bind such
+	entity and its affiliates to these terms and
+	conditions. If you do not have such authority or
+	if you do not agree with the terms and conditions
+	of this EULA agreement, do not install or use the
+	Software, and you must not accept this EULA
+	agreement.
+
+	This EULA agreement shall apply only to the
+	Software supplied by the developer herewith
+	regardless of whether other software is referred
+	to or described herein. The terms also apply to
+	any the developer updates, supplements,
+	Internet+based services, and support services for
+	the Software, unless other terms accompany those
+	items on delivery. If so, those terms apply.
+
+	The preamble above constitutes an integral part of
+	this Agreement and shall be construed accordingly.
+
+		License Grant
+		▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+			The developer hereby grants you a personal,
+			non+transferable, non+exclusi^e licence to use
+			Material Dashboard on your devices in accordance
+			with the terms of this EULA agreement.
+
+			You are permitted to load Material Dashboard (for
+			example a PC or laptop) under your control. You
+			are responsible for ensuring your device meets the
+			minimum requirements of Material Dashboard.
+
+			You are not permitted to:
+				▀▀▀
+
+				Edit, alter, modify, adapt, translate or otherwise
+				change the whole or any part of the Software nor
+				permit the whole or any part of the Software to be
+				combined with or become incorporated in any other
+				software, nor decompile, disassemble or reverse
+				engineer the Software or attempt to do any such
+				things
+
+				Reproduce, copy, distribute, resell or otherwise
+				use the Software for any commercial purpose
+
+				Allow any third party to use the Software on
+				behalf of or for the benefit of any third party
+
+				Use the Software in any way which breaches any
+				applicable local, national or international law
+
+				The developer guarantees that he owns and controls
+				the rights represented herein with respect to the
+				Content and has and will hold throughout the
+				Territory the above listed rights to exploit said
+				Content as contemplated herein.
+
+				The user shall indemnify and hold The developer
+				harmless from any and all claims, liabilities and
+				costs, losses, damages or expenses (including
+				attorney's fees) arising out of any breach,
+				allegation, claim or failure of any covenants or
+				warranties made by The developer herein.
+
+				The user further holds harmless the developer
+				against any claim issued by third parties and to
+				compensate the developer fully against legal
+				expenses and attorney fees pertaining to the
+				Rights granted herein.
+
+				The user agrees that the developer may make public
+				statement regarding its relationship with the
+				without the latter’s prior written approval in
+				each instance.
+
+				Use the Software for any purpose that the
+				developer considers is a breach of this EULA
+				agreement
+
+	Intellectual Property and Ownership
+	▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+		The developer shall at all times retain ownership
+		of the Software as originally downloaded by you
+		and all subsequent downloads of the Software by
+		you. The Software (and the copyright, and other
+		intellectual property rights of whatever nature in
+		the Software, including any modifications made
+		thereto) are and shall remain the property of the
+		developer.
+
+		The developer reserves the right to grant licences
+		to use the Software to third parties.
+
+	Termination
+	▀▀▀▀▀▀▀▀▀▀▀
+
+		This EULA agreement is effective from the date you
+		first use the Software and shall continue until
+		terminated. You may terminate it at any time upon
+		written notice to the developer.
+
+		It will also terminate immediately if you fail to
+		comply with any term of this EULA agreement. Upon
+		such termination, the licenses granted by this
+		EULA agreement will immediately terminate and you
+		agree to stop all access and use of the Software.
+		The provisions that by their nature continue and
+		survive will survive any termination of this EULA
+		agreement.
+
+	Governing Law
+	▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+		This EULA agreement shall be governed by the
+		Kuwaiti laws and any and all disputes arising out
+		of or in connection with the interpretation,
+		execution or non+execution of any or all of the
+		provisions hereof shall be settled by the
+		competent jurisdictions of the State of Kuwait.
+
+	This constitutes the entire Agreement between the
+	parties herein.
+  ▙								 		  ▟
