@@ -1,1 +1,1 @@
-This repository serves as an official 'temporary hosting locaiton' for the output files produced by Material Dashboard - an internal software used in EQUATE. This is NOT open-source software but has been hosted on GitHub just for a rough usage for front-end.
+This repository serves as an official 'temporary hosting location' for the output files produced by Material Dashboard - an internal software used in EQUATE. This is NOT open-source software but has been hosted on GitHub just for a rough usage for front-end.
